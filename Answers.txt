@@ -1,0 +1,35 @@
+Section 1:
+	
+	-Web Development Basics:
+	
+		Web Development is building a website or web application. It encompasses several aspects including web design, web programming, database management, and server configuration. Web Development is essential in the context of the internet because it's an important part of the huge sea of the internet 
+
+	 
+	-HTML Knowledge:
+
+		HTML is the most important part of the website because it's the beginning of building the structure such as the navbar, menu, articles, lists, etc...So without HTML it's impossible to create a web application it's the transit point to the next step. 
+
+Section 2:
+
+	-CSS Understanding:
+
+		CSS is the next step after completing building the structure using HTML, so CSS has a significant responsibility to enhance the appearance of a website, brief CSS is used to change the font styles or sizes, control the layout of pages, change the colors, add some animations, etc...Without CSS the website just sentences in black and white.
+
+Section 3:
+
+	-Introduction to JavaScript:
+
+		JavaScript is a very popular programming language that is used to make the website from static to dynamic, it means the user will be able to interact which it such as creating an account sending messages, or modifying some information in his profile. So JS today is very important to make a dynamic web application. 
+
+Section 4: 
+
+	-React and Node.js Awareness:
+
+		React and Node.js are two frameworks used in the front end to help us and they are considered JS libraries. Node.js is used also in the back end part. 
+
+Section 5: 
+
+	-Learning Intentions:
+
+		
+		My purpose in learning Web Development is to make a career and take it as my future job, and of course to achieve that I need to learn HTML, CSS, JavaScript, React, and Node.js so I can make a complete website in different domains.
